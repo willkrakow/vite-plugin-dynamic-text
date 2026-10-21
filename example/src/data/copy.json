@@ -1,0 +1,9 @@
+{
+  "text": {
+    "hero": {
+      "title": "Hello, dynamic text",
+      "tagline": "Alt+click me in vite dev, change the words, press Enter.",
+      "new": "This line isn't in copy.json yet, so it's added the first time it renders."
+    }
+  }
+}
